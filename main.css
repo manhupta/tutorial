@@ -1,0 +1,72 @@
+@font-face {
+    font-family: "spotify";
+    src: url("ProximaNova-Regular.otf");
+  }
+
+* {
+    font-family: "spotify";
+
+}
+
+body {
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+
+}
+header {
+    background: #509bf5;
+    height: 80px;
+}
+
+.disclaimer {
+    font-size: 12px;
+    color: white;
+    padding-left: 15%; 
+    padding-right: 15%;
+    padding-top: 18px;
+
+}
+
+main {
+    font-weight: bold;
+    font-size: 100px;
+    background-color: #f59b23;
+}
+
+img {
+    width: 120px;
+    display: inline;
+
+
+
+}
+
+#black_banner {
+    color: white;
+    background-color: black;
+    height: 100px;
+    
+}
+li {
+    display: inline-block;
+    font-weight: bold;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+#nav {
+
+    padding-left: 30%;
+    display: inline;
+
+
+
+}
+
+#content_banner {
+    padding-left: 15%;
+    padding-right: 15%;
+
+
+}
